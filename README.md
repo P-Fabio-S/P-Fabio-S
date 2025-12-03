@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Front-End+Engineer;Bacharel+Ciência+da+Computação;Pós-Graduando+em+Front-End;" alt="Headline" />
 </div>
 
-<h1 align="center">Olá 👋, Eu sou {Fábio Pereira}</h1>
+<h1 align="center">Olá 👋, Eu sou Fábio Pereira</h1>
 <h3 align="center">{Testes manuais} residente em {São Paulo, Santo ANdré}/{Brasil}.</h3>
 <p align="center">{Profissional de TI desde 2015, atualmente em transição para QA, com perfil proativo, colaborativo e analítico. Apesar de iniciante na área de testes, já contribui para identificação de bugs e melhorias de sistema, atuando com foco em qualidade e metodologias ágeis como Scrum. Possui ampla experiência em suporte técnico N1 e N2, incluindo configuração de estações, redes, cabeamento, suporte ao usuário e manutenção de ambientes Windows, macOS e Linux. Familiaridade com ferramentas como Zendesk, Power Apps, Microsoft 365 e suporte remoto (Anydesk, TeamViewer, Splashtop), além de conhecimentos em telefonia IP, CFTV e práticas ITIL. Atualmente desenvolve habilidades em testes manuais, casos de teste, testes exploratórios e registro de bugs, sempre orientado à usabilidade, estabilidade e melhoria contínua.}</p>
 
