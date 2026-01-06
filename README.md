@@ -1,6 +1,5 @@
 <div align=center>
-    <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/![Fabio](https://github.com/user-attachments/assets/d679e70b-8d8f-4d29-ab51-bd9c6b4bea67)
-" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
+    <img src="![Fabio](https://github.com/user-attachments/assets/322d8511-36f2-402d-8b11-d0e546be1a36)" height="200" />
 </div>
 <div align=center>
     <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=QA-Tester;Tecnologo+ADS;" alt="Headline" />
