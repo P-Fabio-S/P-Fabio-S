@@ -21,10 +21,9 @@
 
 [![Minhas habilidades](https://skillicons.dev/icons?i=azure,)]()
 
-<h3 align="left">Linguagens e Ferramentas que tenho conhecimento básico:</h3>
+<h3 align="left">Linguagens e Ferramentas que tenho conhecimento:</h3>
 
-
-
+[![Minhas habilidades](https://skillicons.dev/icons?i=cs,)]()
 <h3 align="left">Entre em contato comigo:</h3>
 
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/f%C3%A1bio-fps/)
