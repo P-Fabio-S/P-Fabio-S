@@ -23,7 +23,8 @@
 
 <h3 align="left">Ferramentas que tenho conhecimento:</h3>
 
-[![Minhas habilidades](https://skillicons.dev/icons?i=cs,)]() 
+[![Minhas habilidades](https://skillicons.dev/icons?i=cs,)]()
+[![Minhas habilidades](https://skillicons.dev/icons?i=cypress,)]()
 [![Minhas habilidades](https://skillicons.dev/icons?i=dotnet,)]()
 [![Minhas habilidades](https://skillicons.dev/icons?i=github,)]()
 [![Minhas habilidades](https://skillicons.dev/icons?i=html,)]()
