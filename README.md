@@ -19,7 +19,7 @@
 
 <h3 align="left">Linguagens e Ferramentas que domino:</h3>
 
-[![Minhas habilidades](https://skillicons.dev/icons?i=azure,)(https://skillicons.dev/icons?i=cs,)]()
+[![Minhas habilidades](https://skillicons.dev/icons?i=azure,)]()
 
 <h3 align="left">Linguagens e Ferramentas que tenho conhecimento básico:</h3>
 
