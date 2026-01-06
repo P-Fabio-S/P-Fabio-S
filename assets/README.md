@@ -1,4 +1,5 @@
-<p align="center">
-  <img src="./assets/![Fabio](https://github.com/user-attachments/assets/155416bd-bd75-4b55-a902-51f483e12b46)
-" height="200" />
+p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?
+color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=QA+Tester;Tecnologo+ADS"
+  alt="Headline" />
 </p>
