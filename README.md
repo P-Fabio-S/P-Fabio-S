@@ -1,11 +1,10 @@
-<div align=center>
-    <p align="center">
+<p align="center">
   <img src="./assets/fabio.png" height="200" alt="Foto do Fabio" />
 </p>
-</div>
-<div align=center>
-    <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=QA-Tester;Tecnologo+ADS;" alt="Headline" />
-</div>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=QA-Tester;Tecnologo+ADS;" alt="Headline" />
+</p>
 
 <h1 align="center">Olá 👋, Eu sou Fábio Pereira</h1>
 <h3 align="center">Testes manuais residente em São Paulo, Santo André/Brasil.</h3>
